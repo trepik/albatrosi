@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albatrosi</title>
-    <link>https://trepik.github.io/albatrosi/index.xml</link>
-    <description>Recent content on Albatrosi</description>
+    <title>Rio on Albatrosi</title>
+    <link>https://trepik.github.io/albatrosi/tags/rio/index.xml</link>
+    <description>Recent content in Rio on Albatrosi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk</language>
-    <lastBuildDate>Wed, 08 Feb 2017 22:33:21 +0100</lastBuildDate>
-    <atom:link href="https://trepik.github.io/albatrosi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trepik.github.io/albatrosi/tags/rio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Naša história na Fodbalovom Turnaji</title>
@@ -564,66 +563,6 @@ To mladíci ešte stále súťažili, v kategórii vĺčatá. Na celkový výsle
 &lt;p&gt;Viac fotiek nájdete na stránke &lt;a href=&#34;http://34zbor.sk/galeria&#34;&gt;34.zboru&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Naša jubilejná, desiata účasť na turnaji je už za rohom, tak si ju nenechajte újsť!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Skokan&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fodbalový turnaj 2017</title>
-      <link>https://trepik.github.io/albatrosi/2017/02/fodbalovyturnaj17/</link>
-      <pubDate>Wed, 08 Feb 2017 20:27:50 +0100</pubDate>
-      
-      <guid>https://trepik.github.io/albatrosi/2017/02/fodbalovyturnaj17/</guid>
-      <description>&lt;p&gt;Rozpis zápasov fodbalového turnaja už bol zverejnený. Prvý zápas hráme už túto sobotu (11.2.2017) o 13:15 v telocvični na Bachovej.&lt;/p&gt;
-
-&lt;p&gt;
-Februárový skautský fodbalový turnaj má dlhú tradíciu u nás v oddieli. Tento rok to bude jubilejný 10.krát, čo sa 29-ina rozbehne za loptou. Súťažiť prvý krát budeme v kategórii do 15 rokov, v dvoch skupinách po 4 tímy. Bizón víťazí! sa postupne stretne s Bobrami, Vikingami a Mladými divými vlkmi. Hrať sa bude ako už tradične v Ružinove (zastávka električiek Súmračná) na škole sv. Vincenta de Paul. Treba prísť aspoň pól hodinu pred prvým zápasom. Pokyny pre účastníkov sú každý rok viac menej rovnaké, nájdete ich v &lt;a href=&#34;https://docs.google.com/document/d/19SZSOhmxaDIr0303XMCCUL_0XOtm9jPjJepgQlfvYQ8/edit&#34;&gt;zdieľanom dokumente&lt;/a&gt;. Pripájam ešte rozpis zápasov:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Súper&lt;/th&gt;
-&lt;th&gt;Výkop zápasu&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Bobri&lt;/td&gt;
-&lt;td&gt;13:15&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Vikingovia&lt;/td&gt;
-&lt;td&gt;13:30&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Mladí diví vlci&lt;/td&gt;
-&lt;td&gt;14:15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Na záver vyzývam všetkých Nočných Krtkov, ktorý aspoň trochu sympatizujú s futbalom aby nelemrili doma a vyrazili v sobotu do Ružinova reprezentovať náš oddiel. Ja tam budem a čo ty?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Skokan&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Začíname</title>
-      <link>https://trepik.github.io/albatrosi/2017/02/zaciname/</link>
-      <pubDate>Sat, 04 Feb 2017 13:10:16 +0100</pubDate>
-      
-      <guid>https://trepik.github.io/albatrosi/2017/02/zaciname/</guid>
-      <description>&lt;p&gt;Čaute návštevníci, ocitli ste sa na stránke 29. oddielu Albatrosi. Sme skauti z Karlovej Vsi v Bratislave a fungujeme od roku 2003. Viac o nás a našej históri niekedy inokedy.&lt;/p&gt;
-
-&lt;p&gt;
-Som veľmi rád, že píšem prvý príspevok na našu zbrusunovú a historicky prvú funkčnú webovú stránku. Pokusov o jej vytvorenie už bolo viacero, no nikdy sa mi to nepodarilo dotiahnuť do konca. Až teraz to vyšlo. Áno dnešný zážitok, spolu s volným piatkovým večerom, takisto vďaka môjmu kolegovi z práce a jeho super workshopu, ale aj vrámci vývoja novej zborovej stránky som sa konečne hecol. Všetko bude včas objasnené, no teraz sa zamerajme na to podstatné. Prečo by si sa na túto stránku mal ešte niekedy v živote vrátiť?&lt;/p&gt;
-
-&lt;p&gt;Budú sa tu totiž objavovať informácie o našej činnosti, súčasnej, budúcej ale aj minulej. Takisto všetka oddielová komunikácia sa zjednotí a presunie na tento web. Vzniká tu aj priestor pre seberealizáciu a možnosť prispieť vlastným kúskom. Tešíte sa? Lebo ja určite hej,&lt;/p&gt;
-
-&lt;p&gt;s pozdravom&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Skokan&lt;/em&gt;&lt;/p&gt;</description>
     </item>

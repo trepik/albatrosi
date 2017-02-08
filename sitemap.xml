@@ -2,19 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://trepik.github.io/albatrosi/2017/02/historiafutbalu/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/2017/02/fodbalovyturnaj17/</loc>
+    <lastmod>2017-02-08T20:27:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trepik.github.io/albatrosi/2017/02/zaciname/</loc>
     <lastmod>2017-02-04T13:10:16+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://trepik.github.io/albatrosi/</loc>
-    <lastmod>2017-02-04T13:10:16+01:00</lastmod>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/danko/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/noti/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/oro/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/pegas/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://trepik.github.io/albatrosi/post/</loc>
-    <lastmod>2017-02-04T13:10:16+01:00</lastmod>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/rio/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/skokan/</loc>
+    <lastmod>2017-02-08T20:27:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/va%C5%88a/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trepik.github.io/albatrosi/tags/%C5%A1korpi/</loc>
+    <lastmod>2017-02-08T22:33:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
